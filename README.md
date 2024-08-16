@@ -1,0 +1,1 @@
+EyeSpeak is a desktop app designed to improve digital accessibility for visually impaired users. Using Computer Vision and OCR, it helps users easily access and interact with digital content. It is my graduating engineering project from Yeditepe University.
